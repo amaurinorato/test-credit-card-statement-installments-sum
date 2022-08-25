@@ -40,6 +40,6 @@ Given the folloing file, containing transactions installments of a credit card, 
 20/05  	SHOP FACIL PARC 04/12 SAO PAULO  	      BR  	$5.41
 ```
 
-For example, let's say the first month is January, if we sum the values of all open installments that are shown in the file above, we would have a total of $3050.49. So, the program should print somethin like January:3050.49 or 1:3050.49
+For example, let's say the first month is January, if we sum the values of all open installments that are shown in the file above, we would have a total of $3050.49. So, the program should print something like January:3050.49 or 1:3050.49
 
 You don't need to worry about the year changing
